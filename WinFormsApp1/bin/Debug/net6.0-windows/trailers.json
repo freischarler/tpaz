@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "modelo": "UVV",
+    "patente": "CCC 123",
+    "engrasado": "2022-04-24",
+    "service": "2022-04-25",
+    "vtv": "2022-04-26",
+    "rutas": "2022-04-27",
+    "senasa": "2022-04-28",
+    "poliza": "2022-04-29",
+    "status": true
+  }
+]

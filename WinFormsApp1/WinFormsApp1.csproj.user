@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Edit\EditDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit\EditTrailer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit\EditTruck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New\NewDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New\NewJourney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New\NewTrailer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New\NewTruck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewJourney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
